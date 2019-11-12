@@ -1,1 +1,7 @@
-{}
+{
+    "name":"测试文库",
+    "ver":"beta版",
+    "colour":"default",
+    "import":"assets/load-mathjax.js",
+    "page-mounts":true
+}
