@@ -1,1 +1,0 @@
-if(typeof AWPageMounts=='undefined'){AWPageMounts={}};AWPageMounts['m004']=[{"name":"001-11月13日.md","path":"004-冲浪日记/001-20019年11月/001-11月13日.md","content":"# 11月13日\n\n> 脑子不好，文档来找。\\\\\\\\\n记性太差，随时记下。\n\n因为amwiki 没有vscode的插件，于是就想自己造轮子，所以我去搜了一下vscode插件的开发，\n","timestamp":1573629159972}]
