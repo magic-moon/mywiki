@@ -1,1 +1,0 @@
-if(typeof AWPageMounts=='undefined'){AWPageMounts={}};AWPageMounts['home']={"name":"home-首页.md","path":"home-首页.md","content":"\n我是谁，我从哪里来，要到哪里去？\n\n在彷徨，在迷茫，只想找到答案\n","timestamp":1575949727226}
